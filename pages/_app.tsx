@@ -41,6 +41,6 @@ const App = ({ Component, pageProps }) => {
   );
 };
 
-// ok LL
+// ok L
 
 export default App;
